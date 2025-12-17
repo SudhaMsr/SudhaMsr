@@ -31,6 +31,9 @@ I focus on **understanding systems deeply**, not just running notebooks.
 ---
 ![Sudha's GitHub stats](https://github-readme-stats.vercel.app/api?username=SudhaMsr&show_icons=true&theme=dark)
 
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SudhaMsr&layout=compact&theme=dark)
+
 ## Key Projects
 
 ### 🔹 Vision Assist  
