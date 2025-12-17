@@ -39,3 +39,5 @@ I focus on **understanding systems deeply**, not just running notebooks.
 ### 🔹 Vision Assist  
 AI-powered assistive navigation system for visually impaired users  
 (Computer Vision · Multimodal Perception · Real-time Constraints)
+
+📺 YouTube Channel: [Core AI Clips YouTube channel](https://www.youtube.com/@CoreAI_Clips)
