@@ -30,7 +30,7 @@ I focus on **understanding systems deeply**, not just running notebooks.
 
 ---
 
-## 🚀 Key Projects
+## Key Projects
 
 ### 🔹 Vision Assist  
 AI-powered assistive navigation system for visually impaired users  
