@@ -40,4 +40,6 @@ I focus on **understanding systems deeply**, not just running notebooks.
 AI-powered assistive navigation system for visually impaired users  
 (Computer Vision · Multimodal Perception · Real-time Constraints)
 
-📺 YouTube Channel: [Core AI Clips YouTube channel](https://www.youtube.com/@CoreAI_Clips)
+YouTube Channel: [Core AI Clips YouTube channel](https://www.youtube.com/@CoreAI_Clips)
+Blogs Writing: [Technical Blogs](https://medium.com/@sudhamsr)
+
