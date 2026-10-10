@@ -22,11 +22,9 @@ I care about understanding systems deeply, not just running notebooks.
 
 ### Right now
 
-| | |
-|---|---|
-| 👁️ **Vision Assist** | Real-time hazard detection with voice guidance for blind and visually impaired people (YOLO, OpenCV, edge inference), shaped by user research |
-| 📊 **Social-impact analytics platform** | Freelance full-stack build with React/TypeScript, FastAPI and PostgreSQL: KPIs, heatmaps and clear data provenance |
-| 🎬 **Core AI Clips** | Short, structured AI lessons on [YouTube](https://www.youtube.com/@CoreAI_Clips), with code in [Python-Exercises](https://github.com/SudhaMsr/Python-Exercises) |
+- **Vision Assist**: real-time hazard detection with voice guidance for blind and visually impaired people (YOLO, OpenCV, edge inference), shaped by user research
+- **Social-impact analytics platform**: freelance full-stack build with React/TypeScript, FastAPI and PostgreSQL, with KPIs, heatmaps and clear data provenance
+- **Core AI Clips**: short, structured AI lessons on [YouTube](https://www.youtube.com/@CoreAI_Clips), with code in [Python-Exercises](https://github.com/SudhaMsr/Python-Exercises)
 
 ### Featured work
 
