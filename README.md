@@ -30,7 +30,7 @@ I care about understanding systems deeply, not just running notebooks.
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**Resume screening with LangChain**](https://github.com/SudhaMsr/Resume-Screening-tool-using-LangChain) | LLM-powered tool that analyses and ranks CVs | LangChain · LLMs · Python |
+| [**Resume screening with LangChain**](https://github.com/SudhaMsr/Resume-Screening-tool-using-LangChain) | Ranks CVs against a job with blind screening and explainable scoring | LangChain · scikit-learn · Streamlit |
 | [**Deep learning projects**](https://github.com/SudhaMsr/Deep-Learning-Projects) | CNNs and deep models for vision and beyond | PyTorch · TensorFlow · Keras |
 | [**NLP projects**](https://github.com/SudhaMsr/Natural-Language-Processing-NLP-) | Text classification, sentiment and transformer experiments | HuggingFace · NLTK · Python |
 | [**Apple retail analytics**](https://github.com/SudhaMsr/Apple-Retail-SQL-Project) | Business analysis on a 1-million-row sales dataset | SQL |
